@@ -18,3 +18,9 @@ This is an Header
 ![](https://raw.githubusercontent.com/Hdong27/ssafy_bot/master/ac.jpg)
 
 chatbot made by slackclient
+
+
+| name | number |
+|------|--------|
+| 양희동 | 01 |
+| ssafy | 02 |
