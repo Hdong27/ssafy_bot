@@ -22,5 +22,5 @@ chatbot made by slackclient
 
 | name | number |
 |------|--------|
-| 양희동 | 01 |
+| dong | 01 |
 | ssafy | 02 |
